@@ -1,6 +1,6 @@
 # House-Price-Predictor-ML-Model
 
-In this project, I collected the data "Housing.CSV" which contains all needed car details and trained a model(Random Forest) then deployed it.
+In this project, I collected the data "Housing.CSV" which contains all needed house details and trained a model(Random Forest) then deployed it.
 
 ## Steps I Used to develop the model.
 
